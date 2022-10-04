@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  FirstDialog.cpp
+  MainFrm.cpp
+  MFCkraevaya.cpp
+  MFCkraevayaDoc.cpp
+  MFCkraevayaView.cpp
+C:\Users\frolo\OneDrive\Документы\GitHub\microsoft-foundation-classes\MFCkraevaya\plot_funcsions.h(90,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\frolo\OneDrive\Документы\GitHub\microsoft-foundation-classes\MFCkraevaya\plot_funcsions.h(96,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  MFCkraevaya.vcxproj -> C:\Users\frolo\OneDrive\Документы\GitHub\microsoft-foundation-classes\MFCkraevaya\x64\Debug\MFCkraevaya.exe
